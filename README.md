@@ -1,53 +1,22 @@
-# Hi, I'm Hania Saad 👋
+# Hania Saad | Full-Stack Developer
 
-### Full Stack Web Developer
+I build responsive websites, e-commerce storefronts, and dashboard interfaces. I’m available for international remote roles and freelance projects.
 
-I build modern, responsive, and user-friendly websites and web applications.
+## Selected projects
 
-I enjoy turning ideas into clean, functional digital experiences with a strong focus on responsive design and practical functionality.
+| Project | What I built | Links |
+| --- | --- | --- |
+| LilCrafter | Educational toy storefront with category browsing, built with Next.js, React, TypeScript, Tailwind CSS, and Supabase. | [Live site](https://lilcrafter.netlify.app/) · [Source](https://github.com/Haniasaa/lilcrafter) |
+| National Fibre Glass | Corporate website with product and brand navigation, built with React, Vite, React Router, and Supabase. | [Live site](https://nationalfiberglass.netlify.app/) · [Source](https://github.com/Haniasaa/national-fiber-glass) |
+| Funcage | Responsive website for an indoor children’s entertainment venue, with a clear entry point for booking enquiries. | [Live demo](https://69e4fc506a8b67b4ac9d3ce5--illustrious-griffin-28d0b8.netlify.app/) |
+| K&K Dairy Farm Dashboard | React admin dashboard prototype for booking summaries, availability, livestock, and products, using example data. | [Live demo](https://admin-demo-concept.netlify.app/) |
 
----
+## Technical skills
 
-## 🛠️ Skills
+- **Frontend** — React, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, responsive web design
+- **Backend and data** — Node.js, REST APIs, Supabase, MongoDB
+- **Tooling** — Git, GitHub, Vite, ESLint
 
-- React.js
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- Node.js
-- MongoDB
-- REST APIs
-- Git & GitHub
-- Vite
-- Responsive Web Design
+## Contact
 
----
-
-## 🚀 Featured Projects
-
-### 🛍️ LilCrafter
-E-commerce website for educational and screen-free learning toys.
-
-**Tech:** React.js · JavaScript · Tailwind CSS
-
-### 🏢 National Fiberglass
-Professional corporate website presenting company information, products, and services.
-
-**Tech:** React.js · JavaScript · Tailwind CSS
-
----
-
-## 📌 Currently Working On
-
-Building and improving full-stack web projects while expanding my development portfolio.
-
----
-
-## 📫 Contact
-
-📧 Email: haniasaad56@gmail.com
-
-🌐 Portfolio: Coming Soon
-
-💼 Mostaql: Coming Soon
+For a remote role or freelance project, [email me](mailto:haniasaad56@gmail.com) with a short overview.
